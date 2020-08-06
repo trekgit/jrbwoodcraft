@@ -109,7 +109,7 @@ function resizeWindow() {
 			//$('#splash .logo').show();
 			$('#splash').css({
 			  'position' : 'absolute',
-			  'top' : '0',
+			  'top' : 'auto',
 			  'height' : '100%',
 			});
 			//$('.main-content').css('margin-top','30px');
