@@ -107,11 +107,7 @@ function resizeWindow() {
 			$('#splashPad').css({'margin-top':wh+'px'});
 			$('#splashPad').show();
 			//$('#splash .logo').show();
-			$('#splash').css({
-			  'position' : 'absolute',
-			  'top' : 'auto',
-			  'height' : '100%',
-			});
+			//$('#splash').css({'position' : 'absolute', 'top' : 'auto', 'height' : '100%', });
 			//$('.main-content').css('margin-top','30px');
 			
 		  
