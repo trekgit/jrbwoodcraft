@@ -108,7 +108,7 @@ function resizeWindow() {
 			$('#splashPad').show();
 			//$('#splash .logo').show();
 			$('#splash').css({
-			  'position' : 'absolute',
+			  'position' : 'relative',
 			  'top' : '0',
 			  'height' : '100%',
 			});
