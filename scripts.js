@@ -122,7 +122,7 @@ function resizeWindow() {
 			$('#splashPad').hide();
 			$('#splash .logo').hide();
 			$('#splash').css({
-			  'position' : 'relative',
+			  'position' : 'absolute',
 			  'top' : 'auto',
 			  'height' : splashHeight + 'px',
 			});
